@@ -1,0 +1,1 @@
+{"i":"Custom_Rooms","p":[],"s":"Folder","c":[{"i":"1","p":{"Name":"Spawns"},"s":"Folder","c":[{"i":"2","p":{"Name":"Facility Guard"},"s":"Folder"},{"i":"3","p":{"Name":"Class-D"},"s":"Folder"}]},{"i":"4","p":{"Name":"Items"},"s":"Folder"},{"i":"5","p":{"Name":"Doors"},"s":"Folder","c":[{"i":"6","p":{"Name":"Access","Value":"gate"},"s":"StringValue"}]}]}
